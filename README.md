@@ -123,9 +123,6 @@ React 19 + TypeScript + Node.js + MongoDB + Socket.io + Leaflet + OpenWeather AP
 
 <div align="center">
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulbaliar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbaliar&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaliar&theme=github-dark-blue&hide_border=true)
 
