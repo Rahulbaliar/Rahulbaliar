@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-  ██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-  ██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-  ██████╔╝███████║███████║██║   ██║██║
-  ██╔══██╗██╔══██║██╔══██║██║   ██║██║
-       ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
+██╔══██╗██╔══██╗██║  ██║██║   ██║██║
+██████╔╝███████║███████║██║   ██║██║
+██╔══██╗██╔══██║██╔══██║██║   ██║██║
+     ██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
+     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
 ### Full Stack Developer · DSA Enthusiast · Builder
@@ -36,6 +36,7 @@ Hey! I'm **Rahul** — a full-stack developer who loves building real, productio
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**
 
@@ -51,6 +52,8 @@ Hey! I'm **Rahul** — a full-stack developer who loves building real, productio
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![GitHub OAuth](https://img.shields.io/badge/GitHub_OAuth-181717?style=for-the-badge&logo=github&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ---
 
@@ -95,9 +98,34 @@ React 19 + Node.js + MongoDB + JWT + CodeMirror + TailwindCSS
 
 ---
 
+### 🌊 [OceanGuard — Ocean Hazard Monitoring Platform](https://github.com/Rahulbaliar/ocean)
+
+> *Protecting Our Oceans Through Real-Time Hazard Monitoring & Community-Driven Reporting.*
+
+A full-stack civic-tech platform for citizens and authorities to collaboratively monitor, report, and respond to ocean hazards in real-time.
+
+```
+React 19 + TypeScript + Node.js + MongoDB + Socket.io + Leaflet + OpenWeather API
+```
+
+**Highlights:**
+- 🗺️ Interactive live map with real-time hazard markers via Leaflet
+- ⚡ WebSocket notifications for instant hazard alerts using Socket.io
+- 📋 Multi-step report wizard with image upload and severity classification
+- 🎛️ Admin dashboard with verification system, user management & analytics
+- 📰 RSS feed aggregation + Reddit API integration + AI sentiment analysis
+- 🌤️ Marine weather data — wave height, wind speed via OpenWeather API
+- 🔐 JWT auth with RBAC (user/admin roles) and bcrypt password hashing
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahulbaliar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbaliar&layout=compact&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulbaliar&theme=github-dark-blue&hide_border=true)
 
